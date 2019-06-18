@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">VirtualMagic</string>
+
+    <string name="bhavya">bhavya</string>
+    <string name="fav">favourite</string>
+    <string name="titlename">titlename</string>
+    <string name="no">No Data Found</string>
+    <string name="adid">ca-app-pub-3940256099942544/6300978111</string>
+    <string name="images">Images</string>
+    <string name="insert">Inserted Successfully</string>
+    <string name="completed">added to favourites and uploaded to database</string>
+    <string name="deleted">Deleted Successfully</string>
+    <string name="add">add to favourites and upload to database</string>
+    <string name="widadd">Widgets are addded</string>
+    <string name="action">Action</string>
+    <string name="content">super hero images</string>
+    <string name="titlemenu">view favourites</string>
+    <string name="data">No Favourites</string>
+    <string name="id">Id</string>
+    <string name="name">Name</string>
+    <string name="strength">Strength</string>
+    <string name="speed">Speed</string>
+    <string name="power">Power</string>
+    <string name="eye_color">Eye Color</string>
+    <string name="hair_color">Hair color</string>
+</resources>

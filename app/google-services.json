@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "255018045797",
+    "firebase_url": "https://virtualmagic-b3285.firebaseio.com",
+    "project_id": "virtualmagic-b3285",
+    "storage_bucket": "virtualmagic-b3285.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:255018045797:android:b26d04381283e20f",
+        "android_client_info": {
+          "package_name": "com.example.virtualmagic"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "255018045797-ev702tcenvvcvd52t4p73v06krn5rncv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.virtualmagic",
+            "certificate_hash": "fb81f75d627b767187de93a96ecb174656cf1820"
+          }
+        },
+        {
+          "client_id": "255018045797-erq887edpkku0pjm4152c3mh9r5e0286.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxMTTlwU5G7vu-9m9Eon-Kp79n0bxItoM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "255018045797-erq887edpkku0pjm4152c3mh9r5e0286.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
